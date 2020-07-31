@@ -3,7 +3,7 @@ This is the implementation that supports the version 1.0 of yolov5s, yolov5m, yo
 The Pytorch implementation of yolov5 version 1.0 is provided in this repos.\
 The latest ultralytics/yolov5 version 2.0 of https://github.com/ultralytics/yolov5 is not supported \
 You can see source code of yolov5s on https://github.com/wang-xinyu/tensorrtx/tree/master/yolov5 \
-You can see source code of Pytorch implementatuon of ultralytics/yolov5(version 1.0) on https://github.com/ultralytics/yolov5/releases/tag/v1.0
+You can see Pytorch implementatuon of ultralytics/yolov5(version 1.0) on https://github.com/ultralytics/yolov5/releases/tag/v1.0
 
 # Test Environment
 1. GTX1080 / Ubuntu16.04 or GTX2080Ti / Ubuntu18.04 
